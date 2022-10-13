@@ -1,4 +1,1 @@
-goog morning
-good after noon
-good night
-good boy
+print(hello kitty)
