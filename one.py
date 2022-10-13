@@ -1,2 +1,2 @@
 print(hello kitty)
-prinnt(hellow raju)
+print(hellow raju)
